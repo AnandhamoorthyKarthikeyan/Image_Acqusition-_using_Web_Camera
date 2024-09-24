@@ -104,6 +104,7 @@ cv2.destroyAllWindows()
 </br>
 
 ### iii) Display the video by resizing the window
+![Screenshot 2024-09-24 114142](https://github.com/user-attachments/assets/9a3e5845-9c04-4807-af92-54cb46333089)
 
 
 </br>
